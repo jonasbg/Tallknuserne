@@ -10,6 +10,7 @@ namespace Tallknuserne //samme som package i Java
     {
         static void Main(string[] args)
         {
+            Console.Out.Write("Hello World");
         }
     }
 }
